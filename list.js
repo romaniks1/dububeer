@@ -40,6 +40,7 @@ if (document.getElementById('tracklist1').innerHTML == document.getElementById('
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -52,6 +53,7 @@ if (document.getElementById('tracklist2').innerHTML == document.getElementById('
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -62,6 +64,7 @@ if (document.getElementById('tracklist3').innerHTML == document.getElementById('
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -72,6 +75,7 @@ if (document.getElementById('tracklist4').innerHTML == document.getElementById('
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -82,6 +86,7 @@ if (document.getElementById('tracklist5').innerHTML == document.getElementById('
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -92,6 +97,7 @@ if (document.getElementById('tracklist6').innerHTML == document.getElementById('
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -102,6 +108,7 @@ if (document.getElementById('tracklist7').innerHTML == document.getElementById('
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -112,6 +119,7 @@ if (document.getElementById('tracklist8').innerHTML == document.getElementById('
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -122,6 +130,7 @@ if (document.getElementById('tracklist9').innerHTML == document.getElementById('
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -132,6 +141,7 @@ if (document.getElementById('tracklist10').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -142,6 +152,7 @@ if (document.getElementById('tracklist11').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -152,6 +163,7 @@ if (document.getElementById('tracklist12').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -162,6 +174,7 @@ if (document.getElementById('tracklist13').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -172,6 +185,7 @@ if (document.getElementById('tracklist14').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -182,6 +196,7 @@ if (document.getElementById('tracklist15').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -192,6 +207,7 @@ if (document.getElementById('tracklist16').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -202,6 +218,7 @@ if (document.getElementById('tracklist17').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -212,6 +229,7 @@ if (document.getElementById('tracklist18').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });
@@ -222,6 +240,7 @@ if (document.getElementById('tracklist19').innerHTML == document.getElementById(
 mus = i;
 load();
 list();
+return;
 }
 }
 });

@@ -6,9 +6,10 @@ input.addEventListener("keypress", function(event) {
   }
 });
 
- var result = music.map(item => item.name);
- var result1 = result.map(e => e.toLowerCase());
+ 
  butt.onclick = function() {
+	let result = music.map(item => item.name);
+	let result1 = result.map(e => e.toLowerCase());
     var usertrack = document.getElementById('search1').value;
 	var usertrack1 = usertrack.toLowerCase();
 	mus = result1.indexOf(usertrack1);
