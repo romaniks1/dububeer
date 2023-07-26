@@ -1,0 +1,176 @@
+main {
+  margin: 0px 0;
+  padding: 0px;
+}
+
+main div {
+  color: black;
+  font-size:1.3rem;
+  padding: 0px;
+  width: 500px;
+  margin: 0px;
+
+}
+.cont1{
+color: black;
+background-color:#f1f3f4;
+  font-size:1 em;
+  padding: 0px;
+  width:100px;
+  margin: 0px;
+}
+.cont2{
+color: black;
+background-color:#f1f3f4;
+  font-size:1 em;
+  padding: 0px;
+  width:300px;
+  margin: 0px;
+}
+.cont3{
+color: black;
+background-color:#f1f3f4;
+  font-size:1 em;
+  padding: 2px;
+  width:100px;
+  margin: 0px;
+}
+
+.cont4{
+color: black;
+background-color:#f1f3f4;
+  font-size:1.1em;
+  padding: 2px;
+  height:20px;
+  width:500px;
+  margin: 0px;
+  text-align:center;
+}
+
+.cont5{
+color: black;
+background-color:#f1f3f4;
+  font-size:1.1em;
+  padding: 2px;
+  width:500px;
+  margin: 0px;
+  text-align:center;
+}
+.cont6{
+color: black;
+background-color:#f1f3f4;
+  font-size:1.1em;
+  padding: 2px;
+  width:500px;
+  margin: 0px;
+  text-align:center;
+}
+
+
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+.list1{
+	background-color: #FCC89B;
+	width: 475px;
+	padding: 2px;
+	cursor: pointer;
+}
+
+.list1:hover{
+	background-color: salmon
+}
+
+.list2{
+	display: none;
+}
+.space{
+
+	width:10px;
+}
+.space1{
+	height:10px;
+}
+
+
+
+body{
+background-image: url('https://post-phinf.pstatic.net/MjAyMzAzMTVfMjgx/MDAxNjc4ODUyMzgyNjQy.hrQowQbjjJNUx7F7z3X70JXsd3GC94DOdXQCPiai9m8g.ajueddrAqdU7g02gjuGheyQ_LLqCKZ2rGtGKqk_HVkgg.JPEG/13.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+
+button {
+background-color:#FCC89B;
+color:white;
+padding: 15px 25px;
+text-align:center;
+text-decoration:none;
+display:inline-block;
+cursor: pointer
+}
+
+button:hover {
+background-color:#FF5FA2;
+}
+
+button:active {
+background-color: #333;
+  border-color: #333;
+  color: #eee;
+}
+
+
+
+img{
+height:500px;
+width:500px;
+
+}
+
+
+	
+	
+.button1 {
+  background-color: #f1f3f4;
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+	
+}
+
+.button1:hover {
+background-color:#e5e7e8;
+}
+.button1:active {
+background-color: #333;
+  border-color: #333;
+  color: #eee;
+}
+
+
+.randombutton {
+ background-color:#FCC89B;
+color:white;
+padding: 15px 5px;
+text-align:center;
+text-decoration:none;
+display:inline-block;
+cursor: pointer
+	
+}
+
+#search {
+text-align: center;
+}
