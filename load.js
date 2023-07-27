@@ -12,7 +12,8 @@ function nextpic(){
   }
   }
   function prevpic(){  
-  if (mus>6){                          //mus должен быть больше чем количество треков в первом альбоме - 1. 
+  var f = music[0].count - 1; 
+  if (mus>f){                          //mus должен быть больше чем количество треков в первом альбоме - 1. 
   mus = mus - music[mus].numb;
   mus = mus - music[mus].count + 1;
   load();
