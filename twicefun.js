@@ -1,6 +1,7 @@
 function twicefun(){
 document.getElementById("back").style.backgroundImage = "url(https://post-phinf.pstatic.net/MjAyMzAzMTVfMjgx/MDAxNjc4ODUyMzgyNjQy.hrQowQbjjJNUx7F7z3X70JXsd3GC94DOdXQCPiai9m8g.ajueddrAqdU7g02gjuGheyQ_LLqCKZ2rGtGKqk_HVkgg.JPEG/13.jpg)";
 document.getElementById("yt").src = "https://www.youtube.com/embed/videoseries?list=PLzm9sEXjZ90feWaeV0XuOuRaQqLTHVKDv";
+randomcheck = 0;
 music.length = 0;
 music = [
 	{name:"Do not touch", src:"misamo/do.mp3", cover:"misamo/cover.jpg", numb:1, count:7},

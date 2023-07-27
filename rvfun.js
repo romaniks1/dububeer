@@ -1,6 +1,7 @@
 function rvfun(){
 document.getElementById("back").style.backgroundImage = "url(https://pbs.twimg.com/media/EMdF70HU8AA30__?format=jpg&name=4096x4096)";
 document.getElementById("yt").src = "https://www.youtube.com/embed/videoseries?list=PLmSYmpvvW-3G8hfgooYK2aYxu8CnQ7u-c";
+randomcheck = 0;
 music.length = 0;
 music = [
 	{name:"Birthday", src:"reve2022/1.mp3", cover:"reve2022/cover.jpg", numb:1, count:5},
