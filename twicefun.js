@@ -1,4 +1,5 @@
 function twicefun(){
+document.getElementById("yt").src = "https://www.youtube.com/embed/videoseries?list=PLzm9sEXjZ90feWaeV0XuOuRaQqLTHVKDv";
 music.length = 0;
 music = [
 	{name:"Do not touch", src:"misamo/do.mp3", cover:"misamo/cover.jpg", numb:1, count:7},

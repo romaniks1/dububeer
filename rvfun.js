@@ -1,4 +1,5 @@
 function rvfun(){
+document.getElementById("yt").src = "https://www.youtube.com/embed/videoseries?list=PLmSYmpvvW-3G8hfgooYK2aYxu8CnQ7u-c";
 music.length = 0;
 music = [
 	{name:"Birthday", src:"reve2022/1.mp3", cover:"reve2022/cover.jpg", numb:1, count:5},
