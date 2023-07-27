@@ -7,6 +7,8 @@
 
 
 <title>TWICE СЛЕВА-НАПРАВО</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 <link rel="stylesheet" type="text/css" href="index.css">
@@ -15,18 +17,30 @@
 
 <body onload="list()">
 
-  
-
  
   <script type ="text/javascript" src ="load.js">
  </script>
+ 
+ <ul>
+<li><a class ="menu" type="button" id="twicebut" onclick="twicefun()">TWICE</a></li>
+<li><a class="menu" type="button" id="rvbut" onclick="rvfun()">RED VELVET</a></li>
+</ul>
+ <div class="space1">
+</div>
 
  <form id="search">
  <input type="text" id="search1">
  <input id="butt" type="button" value="Найти">
   <div id="str"></div>
  </form>
+
+
+ <script type ="text/javascript" src ="twicefun.js">
+ </script>
  
+  <script type ="text/javascript" src ="rvfun.js">
+ </script>
+
  <script type ="text/javascript" src ="search.js">
  </script>
  

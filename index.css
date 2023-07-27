@@ -171,6 +171,37 @@ cursor: pointer
 	
 }
 
-#search {
+ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем отступы*/
+  padding-left: 0; /*убираем отступы*/
+  background:salmon; /*добавляем фон всему меню*/
+  height: 30px; /*задаем высоту*/
+}
+.menu {
+  text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  background:#FCC89B; /*добавляем фон к пункту меню*/
+  color:#fff; /*меняем цвет ссылок*/
+  padding:0px 15px; /*добавляем отступ*/
+  font-family: arial; /*меняем шрифт*/
+  line-height:30px; /*ровняем меню по вертикали*/
+  display: block; 
+  border-right: 1px solid #F36262; /*добавляем бордюр справа*/
+  -moz-transition: all 0.3s 0.01s ease; /*делаем плавный переход*/
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+
+}
+.menu:hover {
+  background:#FF5FA2;/*добавляем эффект при наведении*/
+  cursor: pointer;
+}
+li {
+  float:left; /*Размещаем список горизонтально для реализации меню*/
+}
+
+#search{
 text-align: center;
 }
+
+
