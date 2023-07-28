@@ -2,7 +2,6 @@ function twicefun(){
 document.getElementById("back").style.backgroundImage = "url(https://post-phinf.pstatic.net/MjAyMzAzMTVfMjgx/MDAxNjc4ODUyMzgyNjQy.hrQowQbjjJNUx7F7z3X70JXsd3GC94DOdXQCPiai9m8g.ajueddrAqdU7g02gjuGheyQ_LLqCKZ2rGtGKqk_HVkgg.JPEG/13.jpg)";
 document.getElementById("yt").src = "https://www.youtube.com/embed/videoseries?list=PLzm9sEXjZ90feWaeV0XuOuRaQqLTHVKDv";
 randomcheck = 0;
-music.length = 0;
 music = [
 	{name:"Do not touch", src:"misamo/do.mp3", cover:"misamo/cover.jpg", numb:1, count:7},
 	{name:"Behind The Curtain", src:"misamo/behind.mp3", cover:"misamo/cover.jpg", numb:2, count:7},
@@ -198,6 +197,7 @@ music = [
 	{name:"노을만 예쁘다", src:"im/7.mp3", cover:"im/cover.jpg", numb:7, count:7}
 	
 ];
+musicrandom = music.slice(0);
 mus = 0;
 load();
 list();
