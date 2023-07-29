@@ -196,6 +196,11 @@ ul {
   background:#FF5FA2;/*добавляем эффект при наведении*/
   cursor: pointer;
 }
+.menu:active {
+  background-color: #333;
+  border-color: #333;
+  color: #eee;
+}
 li {
   float:left; /*Размещаем список горизонтально для реализации меню*/
 }
