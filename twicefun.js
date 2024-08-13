@@ -1,5 +1,5 @@
 function twicefun(){
-document.getElementById("back").style.backgroundImage = "url(https://post-phinf.pstatic.net/MjAyMzAzMTVfMjgx/MDAxNjc4ODUyMzgyNjQy.hrQowQbjjJNUx7F7z3X70JXsd3GC94DOdXQCPiai9m8g.ajueddrAqdU7g02gjuGheyQ_LLqCKZ2rGtGKqk_HVkgg.JPEG/13.jpg)";
+document.getElementById("back").style.backgroundImage = "url(https://image8.uhdpaper.com/wallpaper/twice-group-members-better-uhdpaper.com-4K-8.799.jpg)";
 document.getElementById("yt").src = "https://www.youtube.com/embed/videoseries?list=PLzm9sEXjZ90feWaeV0XuOuRaQqLTHVKDv";
 randomcheck = 0;
 music = [
