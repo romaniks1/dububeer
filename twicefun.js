@@ -1,5 +1,5 @@
 function twicefun(){
-document.getElementById("back").style.backgroundImage = "twiceback.jpg";
+document.getElementById("back").style.backgroundImage = "url(twiceback.jpg)";
 document.getElementById("yt").src = "https://www.youtube.com/embed/videoseries?list=PLzm9sEXjZ90feWaeV0XuOuRaQqLTHVKDv";
 randomcheck = 0;
 music = [
