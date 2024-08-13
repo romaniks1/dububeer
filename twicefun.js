@@ -1,5 +1,5 @@
 function twicefun(){
-document.getElementById("back").style.backgroundImage = "url(https://image8.uhdpaper.com/wallpaper/twice-group-members-better-uhdpaper.com-4K-8.799.jpg)";
+document.getElementById("back").style.backgroundImage = "twiceback.jpg";
 document.getElementById("yt").src = "https://www.youtube.com/embed/videoseries?list=PLzm9sEXjZ90feWaeV0XuOuRaQqLTHVKDv";
 randomcheck = 0;
 music = [
