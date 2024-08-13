@@ -1,5 +1,5 @@
 function rvfun(){
-document.getElementById("back").style.backgroundImage = "url(https://pbs.twimg.com/media/GQrTqj4bcAAUXii?format=jpg&name=4096x4096)";
+document.getElementById("back").style.backgroundImage = "rvback.jpeg";
 document.getElementById("yt").src = "https://www.youtube.com/embed/videoseries?list=PLmSYmpvvW-3G8hfgooYK2aYxu8CnQ7u-c";
 randomcheck = 0;
 music = [
